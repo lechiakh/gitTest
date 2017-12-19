@@ -9,7 +9,7 @@ import java.util.*;
 	 public static void main(String[] args) {
 		 String x = "Hello World";
 		 String y = " Hello World".trim();
-		 System.out.println(x == y); // true
+		 System.out.println(x == y); // this is true
 		  
 	 }	  
 	}
