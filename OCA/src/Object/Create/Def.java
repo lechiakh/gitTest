@@ -9,7 +9,9 @@ public class Def extends Abc {
 	{
 		System.out.println("this is from mohamed PC's");
 		System.out.println("this is from ACHRAF PC's");
+		System.out.println("this is from ACHRAF PC's");
 		System.out.println("this is from mohamed test conflict");
+		 System.out.println("a new manner to merge ");
 	}
 	
 }
