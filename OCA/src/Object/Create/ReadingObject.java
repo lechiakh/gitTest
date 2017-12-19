@@ -10,6 +10,8 @@ import java.util.*;
 		 String x = "Hello World";
 		 String y = " Hello World".trim();
 		 System.out.println(x == y); // this is true
-		  
+		 {
+			 System.out.println("this is from mohamed pc's");
+		 }
 	 }	  
 	}
