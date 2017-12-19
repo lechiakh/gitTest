@@ -6,5 +6,8 @@ public class Def extends Abc {
 	static {
 		c = 2;
 	}
+	{
+		System.out.println("this is from mohamed PC's");
+	}
 	
 }
