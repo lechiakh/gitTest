@@ -7,7 +7,7 @@ public class Def extends Abc {
 		c = 2;
 	}
 	{
-		
+		System.out.println("UP");
 	}
 	
 }
